@@ -1,0 +1,10 @@
+.env
+ytmusic_oauth.json
+state.json
+state.tmp
+not_found.csv
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
